@@ -1,7 +1,7 @@
 ### Hi, I'm Dmitrii 👋
-I'm a pathologist. 
-I'm interested in digital pathology.
-I'm studying biostatistics and R programming.
+### I'm a pathologist. 
+## I'm interested in digital pathology.
+## At the moment, I'm studying biostatistics and R programming. And here are the projects I'm working on.
 <!--
 **zhakota/zhakota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
